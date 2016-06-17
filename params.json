@@ -1,0 +1,6 @@
+{
+  "name": "Binarycount",
+  "tagline": "Just another binary counter.",
+  "body": "Just another binary counter to count number of 1's and 0's present in an input string.\r\nThat's it.",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
